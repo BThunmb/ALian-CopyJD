@@ -1,0 +1,9 @@
+.box1{
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+}
+.box1 p{
+    font: 16px/32px "SimSun", "宋体";
+    text-align: center;
+}
